@@ -6,6 +6,20 @@ __pycache__/
 # C extensions
 *.so
 
+# Local development configuration
+.idea/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/modules.xml
+.idea/.name
+.idea/vcs.xml
+*.iml
+
+# Flask instance folder
+instance/
+.env
+
 # Distribution / packaging
 .Python
 build/
